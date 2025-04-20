@@ -1,0 +1,2 @@
+D:\Work\AR-VR\AR Task 1 Tany\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Work\AR-VR\AR Task 1 Tany\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
